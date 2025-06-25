@@ -78,8 +78,16 @@ This project is organized into the following directories:
 -   **`images/`**: Stores generated plots and visualizations from the analysis notebooks.
 -   **`requirements.txt`**: Lists all Python dependencies required to run the project.
 
+Note: Due to file size limitations, the best-performing models from the LoRA and Last-Layer Fine-Tuning approaches are not included in this repository.
+You can download them from the following link: 
 
+🔗 [Google Drive repo](https://drive.google.com/drive/folders/15ImdAAxMqwjXKQN768kZKCbzyY7cm_GI?usp=drive_link)
 
+After downloading, place the files in the corresponding folders:
+---
+-   **`models/`**
+    -   `lora/`
+    -   `last_layer/`
 ---
 
 ## 🚀 Getting Started
